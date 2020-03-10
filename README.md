@@ -1,3 +1,7 @@
+# leftspin's notes
+
+There are no differences between this forked repo and the original, and may likely be behind the original. It's just here for my own experiemental uses. Go here for the original: https://github.com/mattdibi/redox-keyboard.
+
 # The Redox project repository
 
 <p align="center">
